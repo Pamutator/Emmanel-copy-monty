@@ -1,2 +1,1 @@
-# monty
-Stacks, Queues, Lifo, Fifo
+PAMUTATOR GROUP PROJECT
